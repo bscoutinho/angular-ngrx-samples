@@ -1,7 +1,4 @@
-# Angular-ngrx-GettingStarted
-Materials for NgRx course.
-
-`APM-Demo0`: The starter files for this course. **Use this to code along with the course**.
+## Angular-ngrx-Samples
 
 `APM-Demo1`: Completed files after the *First Look at NgRx* module. It demonstrates a very simple NgRx example.
 
@@ -13,5 +10,3 @@ Materials for NgRx course.
 
 `APM-Demo5`: Completed files after the *Architectural Considerations* module. It implements the container/presentational component pattern and the OnPush change detection strategy.
 
-NOTE:
-- June 30, 2020: This code was modified to Angular version 9 and NgRx version 9. See the CHANGELOG.md file for details.
